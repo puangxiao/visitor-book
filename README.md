@@ -37,7 +37,7 @@
 5.1 源码运行环境
 - 操作系统：Windows 全系列系统、MacOS Intel系统
 - 运行依赖：图形界面版需Python 3.10 及以上版本，终端版需Python 3 及以上版本
-- 依赖组件：图形界面版使用 PyQt6 图形界面库，执行 `pip install PyQt6 PyQt6-Fluent-Widgets` 完成安装，终端版无需安装第三方库。
+- 依赖组件：图形界面版使用 PyQt6 和 qfluentwidgets图形界面库，执行 `pip install PyQt6 PyQt6-Fluent-Widgets` 完成安装，终端版无需安装第三方库。
 源码启动方式：配置对应版本 Python 环境后，在项目根目录执行启动指令即可运行程序，部署流程极简，无复杂配置操作。
 5.2 成品程序运行环境
 项目提供编译完成的桌面可执行程序，普通用户无需配置 Python 开发环境，解压程序包后即可直接运行，实现开箱即用的极简访客登记体验。
